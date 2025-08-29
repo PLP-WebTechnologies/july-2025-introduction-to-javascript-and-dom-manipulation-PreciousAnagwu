@@ -1,0 +1,31 @@
+/* Simple styling to make the page neat */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #8b95ce;
+}
+
+h1 {
+  color: darkblue;
+}
+
+button {
+  margin: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#result, #loop-output {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+#result, #loop-output-2 {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+
+.highlight {
+  background-color: lightgreen;
+}
