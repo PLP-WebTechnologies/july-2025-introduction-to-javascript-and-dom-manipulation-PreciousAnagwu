@@ -13,8 +13,7 @@ function checkAge() {
 }
 
 // ❤️ Part 2: Functions — reusable blocks
-// Function to calculate a total from 2 numbers
-
+// Function 1: calculate a total from 2 numbers
 function calculateTotal() {
   let num1 = Number(prompt("Enter first number:"));
   let num2 = Number(prompt("Enter second number:"));
@@ -85,3 +84,4 @@ function addNewItem() {
     document.getElementById("item-list").appendChild(newItem);
   }
 }
+
